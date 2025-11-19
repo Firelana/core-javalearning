@@ -15,5 +15,10 @@ public class HelloWorld
     String nonTrimmedString = "    Atharva   ";
       string trimmedstring = nonTrimmedString.trim();
       System.out.println(nonTrimmedString.trim());
+
+        System.out.println(name.substring(2)(5)); 
+        System.out.println(name.replace( oldChar.'a' newChar.'x' ) );
+        System.out.println(target:"atharva" replacement:"xxxxx");
+        
     }
 }
